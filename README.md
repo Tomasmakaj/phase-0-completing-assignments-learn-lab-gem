@@ -1,5 +1,5 @@
 # Complete Your First Software Engineering Assignment
-
+Tomas Makaj
 ## Learning Goals
 
 - Install and configure the `learn-lab` gem.
